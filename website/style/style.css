@@ -1,0 +1,23 @@
+h1{
+	color: black;
+	font-size: 70px;
+}
+body{
+	background-image: url("../images/apple2.jpg");
+	background-size: 100% auto;
+}
+#heading_box {
+	border-width: 5px;
+	border-style: solid;
+	margin: 10px;
+	padding: 10px;
+	text-align: center;
+}
+
+.with_yellow {
+	background-color: yellow;
+}
+
+#hello {
+	text-align: center;
+}
